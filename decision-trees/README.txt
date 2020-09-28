@@ -1,0 +1,1 @@
+Simply run the jupyter notebook p1.ipynb
